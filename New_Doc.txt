@@ -1,0 +1,3 @@
+New document created to understand the git commands
+
+Git Commands is the fundamental layer of understanding things
