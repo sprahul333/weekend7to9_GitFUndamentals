@@ -1,0 +1,1 @@
+Creating new documents for QA Team to understand the flow of the applications. Please understand and test the app to ensure no major leakages happens
