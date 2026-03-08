@@ -1,1 +1,3 @@
 This document is exclusively available for developers please check and do perform the required activities
+
+New set of changes are made in the dev branch for more sets of informations
