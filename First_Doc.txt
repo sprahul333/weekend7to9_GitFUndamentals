@@ -7,3 +7,4 @@ Managing the changes of the code files
 Developer is the king of ocean
 
 SAmple Stashing Concepts to be performed
+New Set of lines written to understand stashing in GIT
