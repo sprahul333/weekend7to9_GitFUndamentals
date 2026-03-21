@@ -4,3 +4,5 @@ New set of changes are made in the dev branch for more sets of informations
 
 Another set of changes are ready to perform the actions
 same set of details are made at the same time
+
+Understanding Signed Commits
